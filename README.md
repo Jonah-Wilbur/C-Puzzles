@@ -1,0 +1,1 @@
+These are some C++ puzzles I did in my high school computer science class. If you would like to know what problems they are solving, look up the title on DMOJ and the problem will come up. These are all successful submissions.
